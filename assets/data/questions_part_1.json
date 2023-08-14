@@ -1,0 +1,47 @@
+{
+  "task_list": {
+    "title": "XML",
+    "part": "",
+    "task_list_en": [
+      "Create an external repository named XML.",
+      "Clone XML repository to local machine.",
+      "Inside the local XML, create the file \"new.xml\".",
+      "Add file under git.",
+      "Commit file.",
+      "Push file to external GitHub repository.",
+      "Edit the contents of the \"new.xml\" file - write information about yourself (full name, age, number of pets, future desired salary). Write everything in XML format.",
+      "Submit changes to external repository.",
+      "Create preferences.xml file",
+      "In the preferences.xml file, add information about your preferences (Favorite movie, favorite series, favorite food, favorite season, side you would like to visit) in XML format.",
+      "Create a sklls.xml file to add information about the skills that will be studied in the course in XML format",
+      "Make a commit in one line.",
+      "Upload 2 files at once to an external repository.",
+      "Create a bug_report.xml file on the web interface.",
+      "Make Commit changes (save) changes on the web interface.",
+      "On the web interface, modify the bug_report.xml file, add a bug report in XML format.",
+      "Make Commit changes (save) changes on the web interface.",
+      "Synchronize external and local XML repository"
+    ],
+    "task_list_ru": [
+      "Создать внешний репозиторий c названием XML.",
+      "Клонировать репозиторий XML на локальный компьютер.",
+      "Внутри локального XML создать файл \"new.xml\".",
+      "Добавить файл под гит.",
+      "Закоммитить файл.",
+      "Отправить файл на внешний GitHub репозиторий.",
+      "Отредактировать содержание файла \"new.xml\" - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате XML.",
+      "Отправить изменения на внешний репозиторий.",
+      "Создать файл preferences.xml",
+      "В файл preferences.xml добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате XML.",
+      "Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML",
+      "Сделать коммит в одну строку.",
+      "Отправить сразу 2 файла на внешний репозиторий.",
+      "На веб интерфейсе создать файл bug_report.xml.",
+      "Сделать Commit changes (сохранить) изменения на веб интерфейсе.",
+      "На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.",
+      "Сделать Commit changes (сохранить) изменения на веб интерфейсе.",
+      "Синхронизировать внешний и локальный репозиторий XML"
+    ],
+    "increased_complexity": []
+  }
+}

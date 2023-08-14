@@ -23,3 +23,7 @@ out/
 
 # Local History for Visual Studio Code
 .history/
+
+# execute_folder
+execute_folder
+execute_folder/*

@@ -1,0 +1,168 @@
+{
+  "title": "XML",
+  "part": "",
+  "task_list": {
+    "task_1": {
+      "id": 1,
+      "task_name_en": "Create an external repository named XML.",
+      "task_name_ru": "Создать внешний репозиторий c названием XML.",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_2": {
+      "id": 2,
+      "task_name_en": "Clone XML repository to local machine.",
+      "task_name_ru": "Клонировать репозиторий XML на локальный компьютер.",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_3": {
+      "id": 3,
+      "task_name_en": "Inside the local XML, create the file \"new.xml\".",
+      "task_name_ru": "Внутри локального XML создать файл \"new.xml\".",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_4": {
+      "id": 4,
+      "task_name_en": "Add file under git.",
+      "task_name_ru": "Добавить файл под гит.",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_5": {
+      "id": 5,
+      "task_name_en": "Commit file.",
+      "task_name_ru": "Закоммитить файл.",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_6": {
+      "id": 6,
+      "task_name_en": "Push file to external GitHub repository.",
+      "task_name_ru": "Отправить файл на внешний GitHub репозиторий.",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_7": {
+      "id": 7,
+      "task_name_en": "Edit the contents of the \"new.xml\" file - write information about yourself (full name, age, number of pets, future desired salary). Write everything in XML format.",
+      "task_name_ru": "Отредактировать содержание файла \"new.xml\" - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате XML.",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_8": {
+      "id": 8,
+      "task_name_en": "Submit changes to external repository.",
+      "task_name_ru": "Отправить изменения на внешний репозиторий.",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_9": {
+      "id": 9,
+      "task_name_en": "Create preferences.xml file",
+      "task_name_ru": "Создать файл preferences.xml",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_10": {
+      "id": 10,
+      "task_name_en": "In the preferences.xml file, add information about your preferences (Favorite movie, favorite series, favorite food, favorite season, side you would like to visit) in XML format.",
+      "task_name_ru": "В файл preferences.xml добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате XML.",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_11": {
+      "id": 11,
+      "task_name_en": "Create a sklls.xml file to add information about the skills that will be studied in the course in XML format",
+      "task_name_ru": "Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_12": {
+      "id": 12,
+      "task_name_en": "Make a commit in one line.",
+      "task_name_ru": "Сделать коммит в одну строку.",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_13": {
+      "id": 13,
+      "task_name_en": "Upload 2 files at once to an external repository.",
+      "task_name_ru": "Отправить сразу 2 файла на внешний репозиторий.",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_14": {
+      "id": 14,
+      "task_name_en": "Create a bug_report.xml file on the web interface.",
+      "task_name_ru": "На веб интерфейсе создать файл bug_report.xml.",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_15": {
+      "id": 15,
+      "task_name_en": "Make Commit changes (save) changes on the web interface.",
+      "task_name_ru": "Сделать Commit changes (сохранить) изменения на веб интерфейсе.",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_16": {
+      "id": 16,
+      "task_name_en": "On the web interface, modify the bug_report.xml file, add a bug report in XML format.",
+      "task_name_ru": "На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_17": {
+      "id": 17,
+      "task_name_en": "Make Commit changes (save) changes on the web interface.",
+      "task_name_ru": "Сделать Commit changes (сохранить) изменения на веб интерфейсе.",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    },
+    "task_18": {
+      "id": 18,
+      "task_name_en": "Synchronize external and local XML repository",
+      "task_name_ru": "Синхронизировать внешний и локальный репозиторий XML",
+      "input": "",
+      "output": "",
+      "description": "",
+      "increased_complexity": false
+    }
+  }
+}
